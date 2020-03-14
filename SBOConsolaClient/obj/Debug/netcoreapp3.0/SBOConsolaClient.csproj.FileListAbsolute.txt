@@ -1,0 +1,15 @@
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\bin\Debug\netcoreapp3.0\SBOConsolaClient.exe
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\bin\Debug\netcoreapp3.0\SBOConsolaClient.deps.json
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\bin\Debug\netcoreapp3.0\SBOConsolaClient.runtimeconfig.json
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\bin\Debug\netcoreapp3.0\SBOConsolaClient.runtimeconfig.dev.json
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\bin\Debug\netcoreapp3.0\SBOConsolaClient.dll
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\bin\Debug\netcoreapp3.0\SBOConsolaClient.pdb
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\obj\Debug\netcoreapp3.0\SBOConsolaClient.csprojAssemblyReference.cache
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\obj\Debug\netcoreapp3.0\SBOConsolaClient.AssemblyInfoInputs.cache
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\obj\Debug\netcoreapp3.0\SBOConsolaClient.AssemblyInfo.cs
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\obj\Debug\netcoreapp3.0\SBOConsolaClient.dll
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\obj\Debug\netcoreapp3.0\SBOConsolaClient.pdb
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\obj\Debug\netcoreapp3.0\SBOConsolaClient.csproj.CopyComplete
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+E:\Proyectos\Proyecto HTorrico\SBOConsolaClient\SBOConsolaClient\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
